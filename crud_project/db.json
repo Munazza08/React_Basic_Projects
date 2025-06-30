@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "e_name": "Monica",
+      "e_email": "monica@gmail.com",
+      "e_age": "27"
+    },
+    {
+      "id": "3",
+      "e_name": "Chandelor",
+      "e_email": "chandelor@gmail.com",
+      "e_age": "27"
+    },
+    {
+      "id": "4",
+      "e_name": "Ross",
+      "e_email": "ross@gmail.com",
+      "e_age": "27"
+    },
+    {
+      "id": "5",
+      "e_name": "Rachel",
+      "e_email": "rachel@gmail.com",
+      "e_age": "27"
+    },
+    {
+      "id": "6",
+      "e_name": "Phoebe",
+      "e_email": "phoebe@gmail.com",
+      "e_age": "26"
+    }
+  ]
+}
